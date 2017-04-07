@@ -9,4 +9,5 @@ on dev2 do modifications
 on issue-404, do modifications
 on dev3 do modifications
 test on pushing branch
-test on fetching branch on testgit7/dev
+test on fetching branch - earlier on testgit9/testgit7/dev
+test on fetching branch on testgit7/dev - later
