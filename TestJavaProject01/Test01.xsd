@@ -1,3 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><xsd:schema targetNamespace="http:///TestJavaProject01/Test01.xsd" xmlns:this="http:///TestJavaProject01/Test01.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema"/>
 <element 1>test data 1</element>
 <element 2>test data 2</element 2>
+<element 3>test data 3</element 3>
